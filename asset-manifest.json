@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wuziqi.github.io/static/css/main.ee5c1195.css",
+    "main.js": "/wuziqi.github.io/static/js/main.504bd4c1.js",
+    "static/js/453.06c01511.chunk.js": "/wuziqi.github.io/static/js/453.06c01511.chunk.js",
+    "index.html": "/wuziqi.github.io/index.html",
+    "main.ee5c1195.css.map": "/wuziqi.github.io/static/css/main.ee5c1195.css.map",
+    "main.504bd4c1.js.map": "/wuziqi.github.io/static/js/main.504bd4c1.js.map",
+    "453.06c01511.chunk.js.map": "/wuziqi.github.io/static/js/453.06c01511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee5c1195.css",
+    "static/js/main.504bd4c1.js"
+  ]
+}
